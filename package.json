@@ -1,0 +1,27 @@
+{
+  "name": "koa-mock-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shb190802/koa-mock-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shb190802/koa-mock-server/issues"
+  },
+  "homepage": "https://github.com/shb190802/koa-mock-server#readme",
+  "dependencies": {
+    "koa": "^2.8.1",
+    "koa-body": "^4.1.1",
+    "koa-router": "^7.4.0",
+    "mockjs": "^1.0.1-beta3"
+  }
+}
